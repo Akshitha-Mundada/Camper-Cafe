@@ -68,9 +68,9 @@ footer p a{
 }
 
 a:hover{
-    color: brown;
+    color: brown !important;
 }
 
 a:visited{
-    color: brown;
+    color: brown !important;
 }
